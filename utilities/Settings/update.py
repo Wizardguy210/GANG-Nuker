@@ -8,7 +8,7 @@ import re
 import sys
 import shutil
 import requests
-from time import sleep
+from time import awake
 from colorama import Fore
 from zipfile import ZipFile
 from bs4 import BeautifulSoup
