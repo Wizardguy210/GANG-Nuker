@@ -3,7 +3,7 @@
 # Copyright © GANG-Nuker
 #########################################################
 
-from utilities.Settings.common import *
+# from utilities.Settings.common import *
 from utilities.Settings.libarys import *
 from utilities.Settings.update import search_for_updates
 
